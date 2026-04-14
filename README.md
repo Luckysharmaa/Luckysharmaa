@@ -42,10 +42,6 @@
 - Generates images from text prompts  
 - Optimized API response time  
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Luckysharmaa&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luckysharmaa&layout=compact)
 
 ## 🌐 Connect
 - LinkedIn: https://www.linkedin.com/in/gunjan-sharma-8a5482294
